@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/emforhs0315/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emforhs0315)](https://solved.ac/emforhs0315/)
 
 
 <!--

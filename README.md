@@ -10,7 +10,7 @@ Sunghoon_Cho::Sejong_Univ.Physics&Astronomy_Department_and_Software_Department;
 <div align=center>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/c-#A8B9CC?style=for-the-badge&logo=c&logoColor=#A8B9CC">
+    <img src="https://img.shields.io/badge/C-#A8B9CC?style=for-the-badge&logo=C&logoColor=#A8B9CC">
     <br>
     <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 

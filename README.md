@@ -2,7 +2,8 @@
 
 42Seoul : 2023.03 ~
 
-[tech blog](https://velog.io/@sungpaks).
+~~[기술 블로그 - velog](https://velog.io/@sungpaks).~~\
+[기술 블로그 - github 블로그](https://sungpaks.github.io)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emforhs0315)](https://solved.ac/emforhs0315/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungpaks)](https://github.com/sungpaks/github-readme-stats)

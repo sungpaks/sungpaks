@@ -2,7 +2,8 @@
 
 #### 물리천문학과 & 소프트웨어학과 전공
 
-42Seoul : 2023.03 ~ 2023.12
+- 42Seoul : 2023.03 ~ 2023.12
+- 멋쟁이사자처럼 대학 12기 : 2024.03 ~
 
 ~~[기술 블로그 - velog](https://velog.io/@sungpaks).~~\
 [기술 블로그 - github 블로그](https://sungpaks.github.io)

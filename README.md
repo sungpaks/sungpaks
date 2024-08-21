@@ -4,6 +4,7 @@
 
 - 42Seoul : 2023.03 ~ 2023.12
 - 멋쟁이사자처럼 대학 12기 : 2024.03 ~
+- 오픈소스 컨트리뷰션 아카데미 Node.js팀 멘티 : 2024.07 ~
 
 ~~[기술 블로그 - velog](https://velog.io/@sungpaks).~~\
 [기술 블로그 - github 블로그](https://sungpaks.github.io)

@@ -9,7 +9,8 @@
 [기술 블로그 - github 블로그](https://sungpaks.github.io)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emforhs0315)](https://solved.ac/emforhs0315/)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungpaks)](https://github.com/sungpaks/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungpaks)](https://github.com/sungpaks/github-readme-stats)  
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=sungpaks&limit=5&hide_contributor_rank=false)
 <!--
 ** [![sungpaks's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sungpaks)
 -->

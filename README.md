@@ -1,5 +1,7 @@
 ## Sunghoon Cho
 
+🤝 기술과 사용자 사이를 연결하는, [T자형 FE개발자](https://f-lab.kr/insight/front-end-developer-t-shaped)가 되고자 합니다.
+
 🏫 학력
 - 세종대학교 물리천문학과 & 소프트웨어학과 전공 (2025.02 졸업예정) 
 

@@ -11,12 +11,13 @@
  
 💻 활동
 - 42Seoul 9기 : 2023.03 ~ 2023.12
-- 멋쟁이사자처럼 대학 12기 : 2024.03 ~
+- 멋쟁이사자처럼 대학 12기 : 2024.03 ~ 2024.12
 - 오픈소스 컨트리뷰션 아카데미 Node.js팀 멘티 : 2024.07 ~ 2024.11
 - 글또 10기 : 2024.09 ~
 
-~~[기술 블로그 - velog](https://velog.io/@sungpaks).~~\
-[기술 블로그 - github 블로그](https://sungpaks.github.io)
+📝 기술블로그
+~~[velog](https://velog.io/@sungpaks).~~\
+[개인 기술 블로그 built with Gatsby.js](https://sungpaks.github.io)  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emforhs0315)](https://solved.ac/emforhs0315/)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungpaks)](https://github.com/sungpaks/github-readme-stats)  

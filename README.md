@@ -2,23 +2,28 @@
 
 🤝 기술과 사용자 사이를 연결하는, [T자형 FE개발자](https://f-lab.kr/insight/front-end-developer-t-shaped)를 지향합니다. 
 
-🏫 학력
+### 🏫 학력
 - 세종대학교 물리천문학과 & 소프트웨어학과 전공 (2019. 03 ~ 2025. 02)
 
-🏢 경력
+### 🏢 경력
 - 팀에브리웨어, 웹 프론트엔드 (인턴), 2024.09.01 ~ 2024.12.31
 - 리브포워드, 웹 프론트엔드, 2025.01.01 ~
  
-💻 활동
+### 💻 활동
 - 42Seoul 9기 : 2023.03 ~ 2023.12
 - 멋쟁이사자처럼 대학 12기 : 2024.03 ~ 2024.12
 - 오픈소스 컨트리뷰션 아카데미 Node.js팀 멘티 : 2024.07 ~ 2024.11
 - 글또 10기 : 2024.09 ~
 
-📝 기술블로그
-~~[velog](https://velog.io/@sungpaks).~~\
-[개인 기술 블로그 built with Gatsby.js](https://sungpaks.github.io)  
+### 📝 기술블로그  
 
+~~[velog 블로그](https://velog.io/@sungpaks).~~\
+[개인 기술 블로그 built with Gatsby.js](https://sungpaks.github.io)  
+- 최근에 작성한 글
+  - [⚡️ 웹 애니메이션에서 Reflow를 제거하고 렌더링 성능을 최적화하기](https://sungpaks.github.io/chrome-extension-performance-optimization/)
+
+\
+\
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=emforhs0315)](https://solved.ac/emforhs0315/)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungpaks)](https://github.com/sungpaks/github-readme-stats)  
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=sungpaks&limit=5&hide_contributor_rank=false)

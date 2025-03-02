@@ -19,7 +19,8 @@
 
 ~~[velog 블로그](https://velog.io/@sungpaks).~~\
 [개인 기술 블로그 built with Gatsby.js](https://sungpaks.github.io)  
-- 최근에 작성한 글
+- 최근 아티클
+  - [🌐 나는 Post-React18 시대에 산다](https://sungpaks.github.io/react-18-concurrency-and-streaming-with-rsc/)
   - [⚡️ 웹 애니메이션에서 Reflow를 제거하고 렌더링 성능을 최적화하기](https://sungpaks.github.io/chrome-extension-performance-optimization/)
 
 \

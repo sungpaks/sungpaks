@@ -17,7 +17,6 @@
 
 ### 📝 기술블로그  
 
-~~[velog 블로그](https://velog.io/@sungpaks).~~\
 [개인 기술 블로그 built with Gatsby.js](https://sungpaks.github.io)  
 - 최근 아티클
   - [🤫 React(^18)와 Next.js(App Router)가 당신 몰래 하는 일](https://sungpaks.github.io/look-into-react-18-streaming-and-rsc-payload/)

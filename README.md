@@ -14,13 +14,14 @@
 - 멋쟁이사자처럼 대학 12기 : 2024.03 ~ 2024.12
 - 오픈소스 컨트리뷰션 아카데미 Node.js팀 멘티 : 2024.07 ~ 2024.11
 - 글또 10기 : 2024.09 ~ 2025.03
+- SIPE 4기: 2025.04 ~ 
 
 ### 📝 기술블로그  
 
 [개인 기술 블로그 built with Gatsby.js](https://sungpaks.github.io)  
 - 최근 아티클
+  - [🚰 29K+ Star 오픈소스에서 메모리가 줄줄 새는 원인 찾기 (JavaScript 메모리 누수)](https://sungpaks.github.io/javascript-memory-leaks/)
   - [🤫 React(^18)와 Next.js(App Router)가 당신 몰래 하는 일](https://sungpaks.github.io/look-into-react-18-streaming-and-rsc-payload/)
-  - [🌐 나는 Post-React18 시대에 산다](https://sungpaks.github.io/react-18-concurrency-and-streaming-with-rsc/)
   - [⚡️ 웹 애니메이션에서 Reflow를 제거하고 렌더링 성능을 최적화하기](https://sungpaks.github.io/chrome-extension-performance-optimization/)
 - 오픈소스 기여 경험을 이야기합니다.
   - [TanStack Query 기여 경험](https://sungpaks.github.io/contributing-tanstack-query/)

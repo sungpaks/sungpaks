@@ -12,12 +12,14 @@
 - 멋쟁이사자처럼 대학 12기 : 2024.03 ~ 2024.12
 - 오픈소스 컨트리뷰션 아카데미 Node.js팀 멘티 : 2024.07 ~ 2024.11
 - 글또 10기 : 2024.09 ~ 2025.03
-- SIPE 4기: 2025.04 ~ 2025.09
+- SIPE 4기 : 2025.04 ~ 2025.09
+- 카카오 테크포임팩트 랩 2기 가방싸LAB 활동 : 2025.08 ~ 2026.01
 
 ### 📝 기술블로그  
 
 [개인 기술 블로그 built with Gatsby.js](https://sungpaks.github.io)  
 - 최근 아티클
+  - [🗿 FSD는 장소가 아니다.. (Feature Sliced Design)](https://sungpaks.github.io/customized-feature-sliced-design-architecture-for-my-team/)
   - [💥 앗 자바스크립트로 물리적인 충돌 구현하기 3분카레보다 쉽다](https://sungpaks.github.io/perfect-elastic-collision-in-javascript/)
   - [🤸 온몸 비틀기로 모바일 웹 유저에게 전체화면 경험 유지시켜주기](https://sungpaks.github.io/mobile-web-fullscreen-scroll-trick/)
   - [🌈 Postprocessing 적용 시 색감/톤이 바뀌는 사람 보시오(Three.js, R3F)](https://sungpaks.github.io/r3f-postprocessing-tonemapping-issue/)
